@@ -2,7 +2,7 @@
 
 Group timeseries CSV data from UHL trend system export by timestamp and export to CSV
 
-##Formatting
+## Formatting
 
 Converts data in the format:
 xxxxxxx			1
